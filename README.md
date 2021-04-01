@@ -13,7 +13,7 @@ A flutter full fledged Image to PDF converter for educational use in flutter.
 |------|-------|
 |<img src="./Img/PdfConverter1.png" width="200">|<img src="./Img/PdfConverter2.png" width="200">|
 ### Directory Structure :
-    |-- tinder_app
+    |-- img_to_pdf_converter
     |    |-- android
     |    |
     |    |-- ios
